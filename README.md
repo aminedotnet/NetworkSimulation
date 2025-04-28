@@ -13,7 +13,7 @@ Users can also load the saved devices from the file system and modify them at an
 - 🔄 Load saved data for viewing, editing, or deletion
 - 🏙️ Beautiful **UI** to manage devices and visualize network information
 - 💾 Devices are saved as files for easy access
-- 🔍 Linkd devices
+- 🔍 Link devices
 
 ---
 
