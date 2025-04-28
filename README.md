@@ -31,4 +31,4 @@ Users can also load the saved devices from the file system and modify them at an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/amiedev/NetworkSimulation.git
+git clone https://github.com/aminesdev/NetworkSimulation.git
